@@ -7,7 +7,7 @@ The main Goal of this assignment is to build an interactive and responsive webpa
 
 ## Tech Stack
 
-Reactjs
+ Reactjs
 HTML/CSS
 Boostrap 
 
@@ -23,15 +23,11 @@ Page has to be responsive for mobile & tablet
 
 Page needs to be hosted on a public service like netlify
 
-#### Nice to Have
 
-    List the suggested instructions to follow while submitting the project mentioned in the Assignment, if any
+  
 
 ## Resources
 
-### Design files
-
-    List the references of design files required for the Assignment
 
 ### APIs
 
